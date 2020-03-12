@@ -5,7 +5,7 @@ class Debugapk < Formula
   homepage "https://github.com/tiandrew/DebugAPK"
   url "https://github.com/tiandrew/DebugAPK/archive/v1.0.6.tar.gz"
   version "1.0.6"
-  sha256 "92d0cdc0f64217b7f9ed6227f3cd56d6206a83af2e0478b2c668b848928a06ae"
+  sha256 "bd5a0b46f76aceb622d9657b4071e24a236d509764d4b377e02225f66e24eeaf"
 
   def install
       bin.install "debugapk"
