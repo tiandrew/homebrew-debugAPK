@@ -1,8 +1,8 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
-class DebugApk < Formula
+class debugapk < Formula
   desc "This script is used to make an APK debuggable and usable with Charles"
-  homepage "https://github.com/tiandrew/Debug-APK"
+  homepage "https://github.com/tiandrew/DebugAPK"
   url "https://github.com/tiandrew/DebugAPK/archive/v1.0.2.tar.gz"
   version "1.0.2"
 
